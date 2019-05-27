@@ -3,9 +3,6 @@ import PropTypes from "prop-types"
 
 import Menu from "../components/menu"
 
-
-
-
 const Layout = () => {
 
   return (
