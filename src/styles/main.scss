@@ -81,16 +81,6 @@ body {
 
 }
 
-.main-container {
-  background-color: white;
-  background-repeat: no-repeat;
-  padding: 0!important;
-}
-
-.MuiAppBar{
-  background-color: white!important;
-}
-
 .monaco-editor {
   height: 99%!important;
 
@@ -98,8 +88,3 @@ body {
     height: 99%!important;
   }
 }
-
-// Import components
-@import "./components/_monacowindow.scss";
-@import "./components/_errorbox.scss";
-@import "./components/_contractsearch.scss"
